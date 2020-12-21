@@ -79,3 +79,7 @@ Does investment-cash flow sensitivities provide useful measusres of financing co
 
 3. 40% of the sample firms, could have increased their investment in every year of the sample period; 
 
+4. firms classified as *less* financially constrained **exhibit** a significantly *greater* investment-cash flow sensitivity than those firms classified as more financially constrained; 
+
+5. 0
+
