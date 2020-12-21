@@ -4,12 +4,10 @@
 
 4 motives for firms to hold cash: 
 
-```markdown
 1. transaction motive / economies of scale / large firms hold less cash / transaction costs associated with converting a noncash financial asset into cash and uses cash for payments
 2. precuationary motive / better cope with adverse shocks
 3. tax motive repatriate funds to domestic from foreign subidiaries
 4. agency motive
-```
 
 Data section: 
 
@@ -50,7 +48,9 @@ How to measure:
 ###### evaluate KZ index: 
 
 1. positively on leverage and Q
+
 2. negatively on cash flow, cash levels and dividends
+
 3. calculated KZ index for entire Compustat universe to ~~compare~~ the coefficient of their models, correlation of these two are 0. `it would appear that researchers should apply extreme caution when using the traditional KZ index or interpreting results based on index sorts`
 
 ##### Steven N.Kaplan and Luigi Zingales, 1997,  *The Quarterly Journal of Economics*
@@ -71,4 +71,11 @@ Does investment-cash flow sensitivities provide useful measusres of financing co
 
 5. and over the entire sample period
 
+###### Summary of results:
+
+1. 15% firm-years is there some ~~question~~ as to a firm's ability to access internal or external funds to increase investment;
+
+2. 85% firm-years could have increased their investment **subustantially**;
+
+3. 40% of the sample firms, could have increased their investment in every year of the sample period; 
 
